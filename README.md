@@ -8,3 +8,5 @@ express+mysql搭建的简易版移动端百度新闻
 
 ## 技术栈：
 - express+bootstrap+mysql+iconfont
+## 预览效果
+-![image](https://github.com/hjchen/baidunode/blob/master/public/img/wap.png)
